@@ -12,4 +12,4 @@ This application allows users to:
 
 ## How to Use
 
-Simply visit the GitHub Pages URL: https://angeldevtech .github.io/predict_zeinternational/
+Simply visit the GitHub Pages URL: https://angeldevtech.github.io/predict_zeinternational/
