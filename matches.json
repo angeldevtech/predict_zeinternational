@@ -357,7 +357,7 @@
     {
       "team1_id": 7,
       "team2_id": 11,
-      "winner_id": null,
+      "winner_id": 11,
       "date": "Sep 28"
     },
     {
