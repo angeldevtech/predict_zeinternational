@@ -98,15 +98,14 @@ document.addEventListener('DOMContentLoaded', () => {
             const row = document.createElement('tr');
             row.className = classification;
             row.innerHTML = `
-                <td>${currentRank}</td>
+                <td class="text-center">${currentRank}</td>
                 <td>
                     <div class="team-rank">
                         <img src="${team.logo}" alt="${team.name} logo">
                         ${team.name}
                     </div>
                 </td>
-                <td>${team.wins}</td>
-                <td>${team.losses}</td>
+                <td class="text-center">${team.wins} - ${team.losses}</td>
             `;
             tbody.appendChild(row);
             lastTeam = team;

@@ -158,6 +158,11 @@ th {
     background-color: #444;
 }
 
+#rankings-table th.text-center, 
+#rankings-table td.text-center {
+    text-align: center;
+}
+
 .winner-bracket { background-color: rgba(40, 167, 69, 0.2); }
 .loser-bracket { background-color: rgba(255, 193, 7, 0.2); }
 .eliminated { background-color: rgba(220, 53, 69, 0.2); }
