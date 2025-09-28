@@ -361,14 +361,14 @@
       "date": "Sep 28"
     },
     {
-      "team1_id": 7,
-      "team2_id": 10,
-      "winner_id": null,
+      "team1_id": 2,
+      "team2_id": 7,
+      "winner_id": 2,
       "date": "Sep 28"
     },
     {
-      "team1_id": 2,
-      "team2_id": 7,
+      "team1_id": 7,
+      "team2_id": 10,
       "winner_id": null,
       "date": "Sep 28"
     },
