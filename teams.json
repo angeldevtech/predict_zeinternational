@@ -1,0 +1,64 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Admiral Crew",
+      "logo": "https://static.wixstatic.com/media/31a184_2816667623bf486694952e68e3471ea2~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/wisper.png"
+    },
+    {
+      "id": 2,
+      "name": "High Skills",
+      "logo": "https://static.wixstatic.com/media/31a184_72c19b75101c427b9fd822ea5d749058~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo%20final%20hightskills_edited_edited.png"
+    },
+    {
+      "id": 3,
+      "name": "La vecindad del chavosor",
+      "logo": "https://static.wixstatic.com/media/31a184_4ae1034d62904ef7a5b1d9fa6ae6efce~mv2.png/v1/fill/w_94,h_94,fp_0.61_0.43,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/scofil.png"
+    },
+    {
+      "id": 4,
+      "name": "Los Bemboyz",
+      "logo": "https://static.wixstatic.com/media/31a184_756cb2afb13e4c1b8bc37aa2a4474b10~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/buti.png"
+    },
+    {
+      "id": 5,
+      "name": "Osos Barberos",
+      "logo": "https://static.wixstatic.com/media/31a184_5c7efc164b0c43f2818aca02fa6e51d3~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Hector_edited_edited.png"
+    },
+    {
+      "id": 6,
+      "name": "Parker y 4 Infieles",
+      "logo": "https://static.wixstatic.com/media/31a184_d863e2e5161b4504a7ada56446722e55~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/PARKER.png"
+    },
+    {
+      "id": 7,
+      "name": "Psycho Panther",
+      "logo": "https://static.wixstatic.com/media/31a184_7600e031860f482a815228fcb276395e~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/gloglgo.png"
+    },
+    {
+      "id": 8,
+      "name": "Rata Put4",
+      "logo": "https://static.wixstatic.com/media/31a184_e6b3fb936a974a588be4e56d66de1502~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/RATA_edited.png"
+    },
+    {
+      "id": 9,
+      "name": "Rising Rage",
+      "logo": "https://static.wixstatic.com/media/31a184_43a996fa7c994ecfbd9b50b515d0ac5d~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Leostyle_edited.png"
+    },
+    {
+      "id": 10,
+      "name": "The Blacklist",
+      "logo": "https://static.wixstatic.com/media/31a184_89e2ddd5ea854d7193c99c6c4fb3e96a~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/kingteka.png"
+    },
+    {
+      "id": 11,
+      "name": "The Lyons",
+      "logo": "https://static.wixstatic.com/media/31a184_859b8b853319419cbce09d6fc3c82562~mv2.png/v1/fill/w_94,h_94,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/pakas.png"
+    },
+    {
+      "id": 12,
+      "name": "The Monstters",
+      "logo": "https://static.wixstatic.com/media/31a184_ea8e73d6a3ac4e8f95fb4c1840ccaa29~mv2.png/v1/fill/w_94,h_94,fp_0.49_0.36,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/macarius.png"
+    }
+  ]
+}

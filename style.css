@@ -1,0 +1,257 @@
+body {
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #daa520;
+    padding-bottom: 10px;
+}
+
+h1, h2 {
+    color: #daa520;
+}
+
+h2 {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.left-panel, .right-panel {
+    background-color: #2c2c2c;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.left-panel {
+    flex: 1;
+}
+
+.right-panel {
+    flex: 2;
+    overflow-x: auto;
+}
+
+.right-panel h2, section h2 {
+    margin-bottom: 20px;
+}
+
+.upcoming-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#clear-predictions-btn {
+    background-color: #555;
+    color: #f0f0f0;
+    border: 1px solid #daa520;
+    padding: 8px 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#clear-predictions-btn:hover {
+    background-color: #daa520;
+    color: #1a1a1a;
+}
+
+.prediction-match {
+    background-color: #333;
+    border: 1px solid #444;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.prediction-match:last-child {
+    margin-bottom: 0;
+}
+
+.prediction-match .teams {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.prediction-match .vs {
+    color: #daa520;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.team-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    padding: 10px;
+    border: 2px solid transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    width: 120px;
+}
+
+.team-card:hover {
+    background-color: #444;
+}
+
+.team-card.selected {
+    border-color: #daa520;
+    background-color: #3c3214;
+}
+
+.team-card img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+}
+
+.team-card span {
+    font-size: 0.9em;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #444;
+}
+
+thead {
+    background-color: #333;
+}
+
+th {
+    color: #daa520;
+}
+
+.team-rank {
+    display: flex;
+    align-items: center;
+}
+
+.team-rank img {
+    width: 48px;
+    height: 48px;
+    margin-right: 10px;
+    border-radius: 50%;
+    background-color: #444;
+}
+
+.winner-bracket { background-color: rgba(40, 167, 69, 0.2); }
+.loser-bracket { background-color: rgba(255, 193, 7, 0.2); }
+.eliminated { background-color: rgba(220, 53, 69, 0.2); }
+
+.matrix-container {
+    background-color: #2c2c2c;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    margin-top: 20px;
+    overflow-x: auto;
+}
+
+#match-matrix-wrapper {
+    margin: auto;
+    width: fit-content;
+}
+
+#match-matrix {
+    display: grid;
+    gap: 2px;
+}
+
+.matrix-header, .matrix-cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 0.3s ease;
+}
+
+.matrix-header {
+    background-color: #333;
+    padding: 5px;
+    width: 60px;
+    height: 60px;
+}
+
+.matrix-header img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    cursor: pointer;
+}
+
+.matrix-cell {
+    background-color: #4f4f4f;
+    font-weight: bold;
+    font-size: 1.2em;
+    width: 70px;
+    height: 70px;
+}
+
+.matrix-win { background-color: #1d6e2e; }
+.matrix-loss { background-color: #85212b; }
+
+.matrix-played { color: white; }
+.matrix-predicted-win { background-color: #28a745; }
+.matrix-predicted-loss { background-color: #dc3545; }
+
+/* Hover effects */
+#match-matrix.is-hovering .matrix-header,
+#match-matrix.is-hovering .matrix-cell {
+    opacity: 0.3;
+}
+
+#match-matrix.is-hovering .highlight {
+    opacity: 1;
+}
+
+/* --- Custom Scrollbar Styles --- */
+
+/* For Webkit-based browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 10px; /* Width of the vertical scrollbar */
+    height: 10px; /* Height of the horizontal scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: #2c2c2c; /* Color of the tracking area */
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #555; /* Color of the scroll thumb */
+    border-radius: 10px;
+    border: 2px solid #2c2c2c; /* Creates padding around thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #daa520; /* Golden color on hover */
+}
+
+/* For Firefox */
+.right-panel, .matrix-container {
+    scrollbar-width: thin; /* "auto" or "thin" */
+    scrollbar-color: #888 #2c2c2c; /* thumb and track color */
+}

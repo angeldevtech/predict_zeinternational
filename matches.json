@@ -1,0 +1,400 @@
+{
+"matches": [
+    {
+      "team1_id": 3,
+      "team2_id": 11,
+      "winner_id": 11,
+      "date": "Sep 18"
+    },
+    {
+      "team1_id": 8,
+      "team2_id": 9,
+      "winner_id": 9,
+      "date": "Sep 18"
+    },
+    {
+      "team1_id": 1,
+      "team2_id": 10,
+      "winner_id": 10,
+      "date": "Sep 19"
+    },
+    {
+      "team1_id": 2,
+      "team2_id": 9,
+      "winner_id": 2,
+      "date": "Sep 19"
+    },
+    {
+      "team1_id": 4,
+      "team2_id": 6,
+      "winner_id": 4,
+      "date": "Sep 19"
+    },
+    {
+      "team1_id": 7,
+      "team2_id": 12,
+      "winner_id": 12,
+      "date": "Sep 19"
+    },
+    {
+      "team1_id": 8,
+      "team2_id": 10,
+      "winner_id": 8,
+      "date": "Sep 19"
+    },
+    {
+      "team1_id": 1,
+      "team2_id": 4,
+      "winner_id": 1,
+      "date": "Sep 20"
+    },
+    {
+      "team1_id": 1,
+      "team2_id": 8,
+      "winner_id": 1,
+      "date": "Sep 20"
+    },
+    {
+      "team1_id": 3,
+      "team2_id": 6,
+      "winner_id": 3,
+      "date": "Sep 20"
+    },
+    {
+      "team1_id": 3,
+      "team2_id": 7,
+      "winner_id": 7,
+      "date": "Sep 20"
+    },
+    {
+      "team1_id": 4,
+      "team2_id": 5,
+      "winner_id": 4,
+      "date": "Sep 20"
+    },
+    {
+      "team1_id": 5,
+      "team2_id": 2,
+      "winner_id": 2,
+      "date": "Sep 20"
+    },
+    {
+      "team1_id": 5,
+      "team2_id": 12,
+      "winner_id": 12,
+      "date": "Sep 20"
+    },
+    {
+      "team1_id": 6,
+      "team2_id": 11,
+      "winner_id": 11,
+      "date": "Sep 20"
+    },
+    {
+      "team1_id": 2,
+      "team2_id": 10,
+      "winner_id": 10,
+      "date": "Sep 21"
+    },
+    {
+      "team1_id": 3,
+      "team2_id": 5,
+      "winner_id": 3,
+      "date": "Sep 21"
+    },
+    {
+      "team1_id": 6,
+      "team2_id": 10,
+      "winner_id": 10,
+      "date": "Sep 21"
+    },
+    {
+      "team1_id": 7,
+      "team2_id": 9,
+      "winner_id": 9,
+      "date": "Sep 21"
+    },
+    {
+      "team1_id": 8,
+      "team2_id": 12,
+      "winner_id": 12,
+      "date": "Sep 21"
+    },
+    {
+      "team1_id": 11,
+      "team2_id": 12,
+      "winner_id": 11,
+      "date": "Sep 21"
+    },
+    {
+      "team1_id": 1,
+      "team2_id": 9,
+      "winner_id": 9,
+      "date": "Sep 22"
+    },
+    {
+      "team1_id": 2,
+      "team2_id": 8,
+      "winner_id": 2,
+      "date": "Sep 22"
+    },
+    {
+      "team1_id": 3,
+      "team2_id": 10,
+      "winner_id": 10,
+      "date": "Sep 22"
+    },
+    {
+      "team1_id": 3,
+      "team2_id": 12,
+      "winner_id": 3,
+      "date": "Sep 22"
+    },
+    {
+      "team1_id": 4,
+      "team2_id": 7,
+      "winner_id": 4,
+      "date": "Sep 22"
+    },
+    {
+      "team1_id": 9,
+      "team2_id": 11,
+      "winner_id": 9,
+      "date": "Sep 22"
+    },
+    {
+      "team1_id": 1,
+      "team2_id": 5,
+      "winner_id": 5,
+      "date": "Sep 23"
+    },
+    {
+      "team1_id": 4,
+      "team2_id": 11,
+      "winner_id": 4,
+      "date": "Sep 23"
+    },
+    {
+      "team1_id": 5,
+      "team2_id": 6,
+      "winner_id": 5,
+      "date": "Sep 23"
+    },
+    {
+      "team1_id": 6,
+      "team2_id": 12,
+      "winner_id": 6,
+      "date": "Sep 23"
+    },
+    {
+      "team1_id": 8,
+      "team2_id": 6,
+      "winner_id": 8,
+      "date": "Sep 23"
+    },
+    {
+      "team1_id": 1,
+      "team2_id": 2,
+      "winner_id": 2,
+      "date": "Sep 24"
+    },
+    {
+      "team1_id": 1,
+      "team2_id": 7,
+      "winner_id": 1,
+      "date": "Sep 24"
+    },
+    {
+      "team1_id": 2,
+      "team2_id": 3,
+      "winner_id": 3,
+      "date": "Sep 24"
+    },
+    {
+      "team1_id": 2,
+      "team2_id": 11,
+      "winner_id": 11,
+      "date": "Sep 24"
+    },
+    {
+      "team1_id": 4,
+      "team2_id": 10,
+      "winner_id": 10,
+      "date": "Sep 24"
+    },
+    {
+      "team1_id": 9,
+      "team2_id": 10,
+      "winner_id": 9,
+      "date": "Sep 24"
+    },
+    {
+      "team1_id": 10,
+      "team2_id": 11,
+      "winner_id": 10,
+      "date": "Sep 24"
+    },
+    {
+      "team1_id": 1,
+      "team2_id": 6,
+      "winner_id": 1,
+      "date": "Sep 25"
+    },
+    {
+      "team1_id": 1,
+      "team2_id": 12,
+      "winner_id": 1,
+      "date": "Sep 25"
+    },
+    {
+      "team1_id": 2,
+      "team2_id": 4,
+      "winner_id": 2,
+      "date": "Sep 25"
+    },
+    {
+      "team1_id": 4,
+      "team2_id": 8,
+      "winner_id": 4,
+      "date": "Sep 25"
+    },
+    {
+      "team1_id": 5,
+      "team2_id": 7,
+      "winner_id": 5,
+      "date": "Sep 25"
+    },
+    {
+      "team1_id": 9,
+      "team2_id": 6,
+      "winner_id": 9,
+      "date": "Sep 25"
+    },
+    {
+      "team1_id": 2,
+      "team2_id": 12,
+      "winner_id": 12,
+      "date": "Sep 26"
+    },
+    {
+      "team1_id": 3,
+      "team2_id": 8,
+      "winner_id": 3,
+      "date": "Sep 26"
+    },
+    {
+      "team1_id": 4,
+      "team2_id": 12,
+      "winner_id": 12,
+      "date": "Sep 26"
+    },
+    {
+      "team1_id": 5,
+      "team2_id": 11,
+      "winner_id": 5,
+      "date": "Sep 26"
+    },
+    {
+      "team1_id": 7,
+      "team2_id": 8,
+      "winner_id": 8,
+      "date": "Sep 26"
+    },
+    {
+      "team1_id": 1,
+      "team2_id": 11,
+      "winner_id": 1,
+      "date": "Sep 27"
+    },
+    {
+      "team1_id": 3,
+      "team2_id": 4,
+      "winner_id": 4,
+      "date": "Sep 27"
+    },
+    {
+      "team1_id": 4,
+      "team2_id": 9,
+      "winner_id": 4,
+      "date": "Sep 27"
+    },
+    {
+      "team1_id": 5,
+      "team2_id": 8,
+      "winner_id": 5,
+      "date": "Sep 27"
+    },
+    {
+      "team1_id": 6,
+      "team2_id": 7,
+      "winner_id": 7,
+      "date": "Sep 27"
+    },
+    {
+      "team1_id": 8,
+      "team2_id": 11,
+      "winner_id": 11,
+      "date": "Sep 27"
+    },
+    {
+      "team1_id": 9,
+      "team2_id": 12,
+      "winner_id": 12,
+      "date": "Sep 27"
+    },
+    {
+      "team1_id": 10,
+      "team2_id": 12,
+      "winner_id": 12,
+      "date": "Sep 28"
+    },
+    {
+      "team1_id": 1,
+      "team2_id": 3,
+      "winner_id": null,
+      "date": "Sep 28"
+    },
+    {
+      "team1_id": 2,
+      "team2_id": 6,
+      "winner_id": 2,
+      "date": "Sep 28"
+    },
+    {
+      "team1_id": 2,
+      "team2_id": 7,
+      "winner_id": null,
+      "date": "Sep 28"
+    },
+    {
+      "team1_id": 3,
+      "team2_id": 9,
+      "winner_id": null,
+      "date": "Sep 28"
+    },
+    {
+      "team1_id": 5,
+      "team2_id": 9,
+      "winner_id": null,
+      "date": "Sep 28"
+    },
+    {
+      "team1_id": 5,
+      "team2_id": 10,
+      "winner_id": null,
+      "date": "Sep 28"
+    },
+    {
+      "team1_id": 7,
+      "team2_id": 10,
+      "winner_id": null,
+      "date": "Sep 28"
+    },
+    {
+      "team1_id": 7,
+      "team2_id": 11,
+      "winner_id": null,
+      "date": "Sep 28"
+    }
+  ]  
+}
