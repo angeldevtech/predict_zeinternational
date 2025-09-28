@@ -32,6 +32,7 @@ h2 {
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    overflow-x: auto;
 }
 
 .left-panel {
@@ -40,7 +41,6 @@ h2 {
 
 .right-panel {
     flex: 2;
-    overflow-x: auto;
 }
 
 .right-panel h2, section h2 {
@@ -103,7 +103,7 @@ h2 {
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
-    width: 120px;
+    width: 100px;
 }
 
 .team-card:hover {
@@ -191,8 +191,8 @@ th {
 .matrix-header {
     background-color: #333;
     padding: 5px;
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
 }
 
 .matrix-header img {
@@ -206,8 +206,8 @@ th {
     background-color: #4f4f4f;
     font-weight: bold;
     font-size: 1.2em;
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
 }
 
 .matrix-win { background-color: #1d6e2e; }
@@ -251,7 +251,22 @@ th {
 }
 
 /* For Firefox */
-.right-panel, .matrix-container {
+.left-panel, .right-panel, .matrix-container {
     scrollbar-width: thin; /* "auto" or "thin" */
     scrollbar-color: #888 #2c2c2c; /* thumb and track color */
+}
+
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    .container {
+        flex-direction: column;
+    }
+    .container > div {
+        width: calc(100% - 20px);
+    }
+    .left-panel, .right-panel, .matrix-container {
+        padding: 10px;
+    }
 }

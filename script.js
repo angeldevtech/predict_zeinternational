@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const container = document.getElementById('match-matrix');
         container.innerHTML = '';
         const numTeams = teams.length;
-        container.style.gridTemplateColumns = `repeat(${numTeams + 1}, 70px)`;
+        container.style.gridTemplateColumns = `repeat(${numTeams + 1}, 60px)`;
         
         const sortedTeams = [...teams].sort((a, b) => a.id - b.id);
 
