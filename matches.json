@@ -346,23 +346,41 @@
       "team1_id": 10,
       "team2_id": 12,
       "winner_id": 12,
-      "date": "Sep 28"
-    },
-    {
-      "team1_id": 1,
-      "team2_id": 3,
-      "winner_id": null,
-      "date": "Sep 28"
+      "date": "Sep 27"
     },
     {
       "team1_id": 2,
       "team2_id": 6,
       "winner_id": 2,
+      "date": "Sep 27"
+    },
+    {
+      "team1_id": 7,
+      "team2_id": 11,
+      "winner_id": null,
+      "date": "Sep 28"
+    },
+    {
+      "team1_id": 7,
+      "team2_id": 10,
+      "winner_id": null,
       "date": "Sep 28"
     },
     {
       "team1_id": 2,
       "team2_id": 7,
+      "winner_id": null,
+      "date": "Sep 28"
+    },
+    {
+      "team1_id": 5,
+      "team2_id": 10,
+      "winner_id": null,
+      "date": "Sep 28"
+    },
+    {
+      "team1_id": 5,
+      "team2_id": 9,
       "winner_id": null,
       "date": "Sep 28"
     },
@@ -373,26 +391,8 @@
       "date": "Sep 28"
     },
     {
-      "team1_id": 5,
-      "team2_id": 9,
-      "winner_id": null,
-      "date": "Sep 28"
-    },
-    {
-      "team1_id": 5,
-      "team2_id": 10,
-      "winner_id": null,
-      "date": "Sep 28"
-    },
-    {
-      "team1_id": 7,
-      "team2_id": 10,
-      "winner_id": null,
-      "date": "Sep 28"
-    },
-    {
-      "team1_id": 7,
-      "team2_id": 11,
+      "team1_id": 1,
+      "team2_id": 3,
       "winner_id": null,
       "date": "Sep 28"
     }
